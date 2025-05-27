@@ -10,6 +10,7 @@ Now that I have the chance, I’m fully committed to growing as a developer and 
 
 - [LinkedIn](https://www.linkedin.com/in/jonathan-nunez-38209b368/)
 - [CodePen](https://codepen.io/jonnunez03)
+- - [Codewars](https://www.codewars.com/users/jonnunez03)
 
 ## 🛠️ Technical Skills
 
