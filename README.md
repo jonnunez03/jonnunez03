@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jonathan Nunez
 
-I'm an aspiring Full-Stack or Back-End Developer with a strong passion for building and maintaining web applications. 
+Full-Stack or Back-End Developer with a strong passion for building and maintaining web applications. 
 After sustaining an injury during my time in the military, I made the decision to pursue a career that aligns with both my interests and my physical limitations. 
-Remote development offers me the opportunity to continue doing meaningful and challenging work in a field I’ve always loved.
+Development offers me the opportunity to continue doing meaningful and challenging work in a field I’ve always loved.
 
 Now that I have the chance, I’m fully committed to growing as a developer and contributing to teams that build great software.
 
