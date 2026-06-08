@@ -148,12 +148,6 @@ Lord of the Forms is a React and TypeScript form application with controlled inp
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonnunez03&show_icons=true&theme=radical)
-
----
-
 ## 📌 Portfolio Focus
 
 I am currently focused on building projects that show practical software development skills, including API integration, form validation, state management, responsive layouts, and user focused web applications.
