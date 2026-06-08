@@ -130,11 +130,13 @@ Lord of the Forms is a React and TypeScript form application with controlled inp
 
 ## 🎯 Current Goals
 
-- Continue improving my full stack development skills
-- Build stronger React, TypeScript, API, and database projects
-- Prepare for entry level software developer and full stack web developer roles
-- Improve project documentation and GitHub presentation
-- Build practical applications that solve real problems
+* Continue improving my full stack development skills
+* Build stronger React, TypeScript, API, and database projects
+* Strengthen my back-end development skills with Node.js, Python, Java, SQL, and C#
+* Continue learning languages and tools that are valuable in the software engineering job market
+* Prepare for entry level software developer, full stack web developer, and back-end developer roles
+* Improve project documentation and GitHub presentation
+* Build practical applications that solve real problems
 
 ---
 
